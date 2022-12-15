@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/z/front-end-developer-typographic-header-website-interface-design-improvement-programming-coding-profession-isolated-flat-202816571.jpg)
+![MasterHead](https://thumbs.dreamstime.com/z/front-end-developer-typographic-header-website-interface-design-improvement-programming-coding-profession-isolated-flat-202816571.jpg)
 <h1 align="center">Hi 👋, I'm Ujjawal sinha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="developer" width="400" src="https://media.licdn.com/dms/image/C4E12AQEhsaIOuMV62w/article-cover_image-shrink_423_752/0/1634533856823?e=1676505600&v=beta&t=loDqitmOSY8VbFaFy3nBzt8Hd6vz-HWqkQL34HIwYI4"
