@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/z/front-end-developer-typographic-header-website-interface-design-improvement-programming-coding-profession-isolated-flat-202816571.jpg)
+![MasterHead](https://community.nasscom.in/sites/default/files/styles/960_x_600/public/media/images/DATA%20SCIENCE%20MODEL.jpg?itok=Uw9IQgUd) 
 <h1 align="center">Hi 👋, I'm Ujjawal sinha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="developer" width="400" src="https://media.licdn.com/dms/image/C4E12AQEhsaIOuMV62w/article-cover_image-shrink_423_752/0/1634533856823?e=1676505600&v=beta&t=loDqitmOSY8VbFaFy3nBzt8Hd6vz-HWqkQL34HIwYI4"
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Data analyst**
 
-- 💬 Ask me about **Front-end developer**
+- 💬 Ask me about **Data analyst**
 
 - 📫 How to reach me **ujjawalsinhaom@gmail.com**
 
