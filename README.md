@@ -1,6 +1,6 @@
 ![MasterHead](https://community.nasscom.in/sites/default/files/styles/960_x_600/public/media/images/DATA%20SCIENCE%20MODEL.jpg?itok=Uw9IQgUd) 
 <h1 align="center">Hi 👋, I'm Ujjawal sinha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="developer" width="400" src="https://media.licdn.com/dms/image/C4E12AQEhsaIOuMV62w/article-cover_image-shrink_423_752/0/1634533856823?e=1676505600&v=beta&t=loDqitmOSY8VbFaFy3nBzt8Hd6vz-HWqkQL34HIwYI4"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawasinha98&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawasinha98" /> </p>
